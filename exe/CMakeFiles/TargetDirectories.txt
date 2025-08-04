@@ -1,0 +1,2 @@
+/home/vas/Documents/PlatformIO/Projects/les7/exe/CMakeFiles/rebuild_cache.dir
+/home/vas/Documents/PlatformIO/Projects/les7/exe/CMakeFiles/edit_cache.dir
